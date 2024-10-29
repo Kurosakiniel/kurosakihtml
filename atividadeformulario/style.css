@@ -1,0 +1,31 @@
+body{
+
+    background-color: silver;
+    color: black;
+}
+
+* {
+
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+fieldset{
+
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgb(133, 92, 144);
+}
+
+input, select, textarea {
+
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+}
+
+label {
+
+    font-weight: bold;
+}
